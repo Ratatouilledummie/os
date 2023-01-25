@@ -1,16 +1,2 @@
 vanilla-base-meta
-vanilla-base-desktop
-
-switcheroo-control
-gnome-calculator
-gnome-music
-gnome-photos
-gnome-software
-gnome-disk-utility
-gnome-sushi
-evince
-yelp
-file-roller
-eog
-orca
-totem
+vanilla-base-plasma
