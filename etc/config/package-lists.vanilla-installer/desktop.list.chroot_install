@@ -22,7 +22,6 @@ libqt5core5a
 libqt5datavisualization5
 libqt5dbus5
 kde-baseapps
-kde-baseapps-data
 kde-cli-tools
 kde-cli-tools-data
 kde-config-cddb
@@ -32,7 +31,6 @@ kde-config-fcitx5
 kde-config-gtk-style
 kde-config-gtk-style-preview
 kde-config-mailtransport
-kde-config-plymouth,
 kde-config-screenlocker
 kde-config-sddm
 kde-config-systemd
@@ -40,7 +38,6 @@ kde-config-tablet
 kde-config-telepathy-accounts
 kde-config-updates
 kde-config-whoopsie
-kde-games-core-declarative
 kde-spectacle
 kde-standard
 kde-style-breeze
@@ -49,8 +46,6 @@ kde-style-qtcurve-qt5
 plasma-desktop
 kde-plasma-desktop
 plasma-desktop-data
-vanilla-first-setup
-vanilla-beta-notice
 sddm
 sddm-theme-breeze
 xorg
